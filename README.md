@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varsharathore16
-- 👀 I’m interested in Deep Learning and Machine Learning projects.
-- 🌱 I’m currently learning Data Structures and Object Oriented Programming with Python at UConn
+- 👀 I’m interested in various projects.
+- 🌱 I’m currently learning C++ Essentials and Circuits at UConn
 - 💞️ I’m looking to collaborate on projects of various topics.
 - 📫 How to reach me: varsha.rathore611@gmail.com
 
