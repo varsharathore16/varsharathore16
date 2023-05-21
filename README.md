@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @varsharathore16!
+- 👋 Hi, I’m Varsha Rathore!
 - 👀 I’m interested in Cloud Computing and Database Management.
 - 🌱 I’m currently an undergraduate student at UConn, majoring in Computer Science & Engineering with a minor in Mathematics.
 
